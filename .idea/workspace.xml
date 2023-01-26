@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="774dbabe-8913-4c0a-b360-f13e4f175eb1" name="Changes" comment="file creation">
-      <change afterPath="$PROJECT_DIR$/.idea/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kelsiei/inheritance1/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kelsiei/inheritance1/BMW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kelsiei/inheritance1/CarDealership.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kelsiei/inheritance1/CarDealershipMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kelsiei/inheritance1/Honda.java" afterDir="false" />
+    <list default="true" id="774dbabe-8913-4c0a-b360-f13e4f175eb1" name="Changes" comment="Brand Menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kelsiei/inheritance1/CarDealershipMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kelsiei/inheritance1/CarDealershipMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +50,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674703496613</updated>
     </task>
+    <task id="LOCAL-00001" summary="Brand Menu">
+      <created>1674722910839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674722910839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,6 +72,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Brand Menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Brand Menu" />
   </component>
 </project>

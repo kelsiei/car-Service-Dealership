@@ -3,6 +3,7 @@ package com.kelsiei.inheritance1;
 import java.util.Scanner;
 
 public class CarDealershipMain {
+//READ HERE BEFORE CONTINUINg
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -27,6 +28,8 @@ public class CarDealershipMain {
                 default -> System.out.println("Please enter brands specified with numerals from 1-3 and try again!");
             }
         }
+
+
 
 
     }
