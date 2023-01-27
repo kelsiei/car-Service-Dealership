@@ -7,3 +7,6 @@ Service your car for the following brands:
 
 Topics covered:
 Switch, Classes, Inheritance, Polymorphism...
+
+Possible additions:
+Allow multiple services at once.
